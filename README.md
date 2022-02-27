@@ -11,7 +11,17 @@ Bootstrap merupakan framework yang dirancang menggunakan HTML, CSS, dan Javascri
 
 Semua kode Bootstrap pada pertemuan 4 dapat diakses dengan cepat melalui link berikut
 
-- [Struktur Dasar HTML](https://github.com/Praktikum-PBW/pbw-html-css-1/blob/main/struktur_dasar.html)
+- [Cara Menggunakan Bootstrap](https://github.com/Praktikum-PBW/pbw-bootstrap/blob/main/index.html)
+- [Col Number](https://github.com/Praktikum-PBW/pbw-bootstrap/blob/main/col-number.html)
+- [Container dan Container Fluid](https://github.com/Praktikum-PBW/pbw-bootstrap/blob/main/container-and-container-fluid.html)
+- [Display](https://github.com/Praktikum-PBW/pbw-bootstrap/blob/main/display.html)
+- [Form Control](https://github.com/Praktikum-PBW/pbw-bootstrap/blob/main/form-control.html)
+- [Form Checkbox Radio](https://github.com/Praktikum-PBW/pbw-bootstrap/blob/main/form-checkbox-radio.html)
+- [Heading](https://github.com/Praktikum-PBW/pbw-bootstrap/blob/main/heading.html)
+- [Lead](https://github.com/Praktikum-PBW/pbw-bootstrap/blob/main/lead.html)
+- [List](https://github.com/Praktikum-PBW/pbw-bootstrap/blob/main/list.html)
+- [Row dan Column](https://github.com/Praktikum-PBW/pbw-bootstrap/blob/main/row-column.html)
+- [Tabel](https://github.com/Praktikum-PBW/pbw-bootstrap/blob/main/tabel.html)
 
 ## ✨Connect With Me
 
