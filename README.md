@@ -1,13 +1,12 @@
 ## Materi Bootstrap
 
-Repositori ini berisi materi praktikum pertemuan 4 yang membahas tentang Bootstrap
+Repositori ini berisi materi praktikum pertemuan 4 yang membahas tentang Bootstrap 5
 
 ## 💠Mengenal Apa Itu Bootstrap
 
 Bootstrap merupakan framework yang dirancang menggunakan HTML, CSS, dan Javascript yang dapat memudahkan kita untuk mendesain web. Dengan adanya Bootstrap kita dapat membuat desain web yang menarik dan juga responsive tanpa harus memahami kode-kode HTML, CSS, dan Javascript yang sangat rumit. Kita hanya perlu paham tentang dasar-dasarnya aja.
 
-
-### 📙 Bootstrap 
+### 📙 Bootstrap
 
 Semua kode Bootstrap pada pertemuan 4 dapat diakses dengan cepat melalui link berikut
 
